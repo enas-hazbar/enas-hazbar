@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **front and back-end development**
 
-- 👨‍💻 All of my projects are available at [http://enas-hazbar.me/](http://enas-hazbar.me/)
+- 👨‍💻 All of my projects are available at [http://enas-hazbar.me/](http://enas-hazbar.me/portfolio)
 
 - 💬 Ask me about **HTML | CSS | JavaScript | Yii | PHP | Laravel | MySQL | ReactJs**
 
